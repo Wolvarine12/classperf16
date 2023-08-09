@@ -1,0 +1,52 @@
+body{
+    font-family: cursive;
+}
+a{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+h1{
+    text-decoration-style: dotted; 
+    text-decoration-color: blue;
+    text-decoration-thickness: 5px;
+}
+h2{
+    text-decoration-line: underline; 
+    text-decoration: underline;
+    text-decoration-style: wavy ; 
+    text-decoration-thickness: 5px;
+}
+p{
+    color: rgb(17, 0, 255);
+    text-transform: uppercase;
+}
+h3{
+    color: brown;
+    text-transform: lowercase;
+}
+#r1{
+    text-indent: 50px;
+    letter-spacing: 5px;
+}
+#r2{
+    word-spacing: 26px;
+    background-color:red;
+    line-height: 200px;
+}
+#r3{
+
+    word-wrap: break-word;
+}
+#r4{
+    white-space: pre;
+}
+h4{
+    white-space: pre-wrap;
+}
+h6{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+   
+  text-shadow: 2px 2px 4px #34bd0e;
+}
